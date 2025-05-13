@@ -61,3 +61,43 @@ Léo sorriu torto.
 Olhou para o relógio:
 23h47.
 Treze minutos para a meia-noite. E seja lá o que fosse acontecer... ele sabia que estava no centro disso.
+
+**Capítulo 3 – O Relógio de Ouro**
+
+O relógio de Léo, uma relíquia de prata que ele usava como um amuleto, parecia se distorcer no ritmo da ansiedade que tomava conta de sua mente. O som da chuva no vidro da janela agora se misturava ao ruído incessante da ventoinha do seu laptop. Os minutos passavam rápido, quase como se o tempo tivesse adquirido uma textura pesada, como se estivesse se comprimindo, aguardando o momento exato.
+
+Léo não era do tipo que se apressava, mas a situação pedia urgência. A voz distorcida na gravação parecia saber algo sobre ele, algo que ele guardava em segredo. Aquilo o deixava desconfortável. Ele começou a escrever comandos com mais intensidade, focado na tela enquanto tentava rastrear qualquer arquivo ou código que pudesse dar mais pistas.
+
+A mulher, que ainda permanecia de pé ao lado da mesa, parecia uma sombra, quase invisível sob o feixe de luz fraco da lâmpada. Seu olhar era fixo, mas as palavras estavam longe de serem ditas. Léo sentiu o peso do silêncio entre eles, como se ela também estivesse aguardando algo.
+
+— Você disse que é um "projeto fantasma", mas não me explicou o que significa isso — Léo perguntou sem tirar os olhos do laptop.
+
+A mulher ajustou os óculos escuros, mesmo sabendo que ele não poderia vê-los. Ela parecia hesitante, como se estivesse lutando com a escolha das palavras certas.
+
+— O projeto... foi uma iniciativa secreta para criar uma rede de segurança de dados inquebrável. Só que algo deu errado. O sistema começou a gerar algo que não podíamos controlar. Dados foram... corrompidos. E há rumores de que algo está sendo armazenado nele, algo que nunca deveria ser revelado.
+
+Léo olhou para ela, seus olhos agora mais atentos. Ele sempre soubera que os segredos do governo tinham um preço, mas a ideia de uma "rede inquebrável" que agora estava fora de controle parecia algo de ficção científica.
+
+— E qual é o seu papel nisso? — ele perguntou, a voz mais fria agora.
+
+Ela respirou fundo antes de responder.
+
+— Eu sou... uma das poucas pessoas que sabem sobre o projeto. E agora sou a única que pode impedir que tudo caia em mãos erradas. O arquivo é uma chave. Você deve decifrá-lo.
+
+Léo balançou a cabeça, ainda sem entender completamente. O "meia-noite.exe" não era um simples trojan. Era mais do que isso. Era um convite. E, de algum modo, ele se sentia puxado para o centro da tempestade.
+
+O relógio na parede fez um som sutil, marcando o início da contagem regressiva. 23h59. Ele estava a segundos de descobrir o que aconteceria quando a meia-noite finalmente chegasse.
+
+Foi então que a tela do laptop piscou, e um novo comando surgiu: **"Iniciar sequência de ativação. A chave está nos seus segredos."**
+
+Léo olhou para a mulher.
+
+— O que significa isso? O que está acontecendo? — ele perguntou, um toque de apreensão na voz.
+
+Ela não respondeu de imediato. Sua expressão estava agora mais tensa, como se estivesse lutando contra uma verdade indesejada.
+
+— Você precisa entender: os segredos... são pessoais. Não são apenas dados ou códigos. Eles estão dentro de você, Cipher. O arquivo vai forçar você a enfrentá-los.
+
+Léo sentiu um arrepio percorrer sua espinha. Ele não sabia o que isso significava, mas uma coisa estava clara. O enigma estava se tornando algo muito mais pessoal do que ele imaginara.
+
+A última batida do relógio soou. E, então, o arquivo se abriu.
