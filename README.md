@@ -48,7 +48,6 @@ Léo ergueu uma sobrancelha.
 Isso era intrigante.  
 E ele **adorava enigmas com nome de arquivo**.
 
-## Capítulo 2 – O Arquivo que Sussurra
 
 ## Capítulo 2 – O Arquivo que Sussurra ##
 
@@ -131,8 +130,8 @@ Léo sentiu um arrepio percorrer sua espinha. Ele não sabia o que isso signific
 A última batida do relógio soou. E, então, o arquivo se abriu.  
 
 
-
 ## Capítulo 4 – O Espelho da Alma ##
+
 
 Em vez de códigos complexos ou arquivos corrompidos, a tela do laptop de Léo exibiu uma única imagem: uma fotografia antiga e desbotada. Nela, um garoto de uns dez anos, magro e com óculos grandes demais para o rosto, sorria timidamente ao lado de um homem mais velho, com um semblante cansado, mas um olhar carinhoso. Atrás deles, uma placa enferrujada indicava: "Bem-vindos a CipherTech".
 
