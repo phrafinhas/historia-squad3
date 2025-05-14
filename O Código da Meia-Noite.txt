@@ -4,27 +4,25 @@ História colaborativa da Squad 3
 
 🕵️‍♂️ O Código da Meia-Noite
 
-Capítulo 1 – O Cliente Misterioso
+## Capítulo 1 – O Cliente Misterioso ##
 
 Era uma noite chuvosa em São Paulo. Os pingos tamborilavam na janela do pequeno escritório improvisado de **Léo Cipher**, o detetive hacker mais excêntrico da cidade — sempre vestido com um sobretudo preto, fones no pescoço, e um laptop velho que mais parecia uma torradeira barulhenta.
 
 Léo estava focado em decifrar um CAPTCHA quando a porta se abriu com um rangido dramático. Entrou uma mulher de óculos escuros e cachecol, mesmo sendo meia-noite no verão.
 
-> — Você é o "Cipher"? — perguntou ela.
+— Você é o "Cipher"? — perguntou ela.
 
-> — Depende... — Léo respondeu, sem tirar os olhos da tela. — Quem pergunta? E trouxe café?
+— Depende... — Léo respondeu, sem tirar os olhos da tela. — Quem pergunta? E trouxe café?
 
 Ela ignorou a provocação.
 
-> — Alguém invadiu o sistema da minha empresa e deixou um único arquivo criptografado.  
-> O nome dele é: `meia-noite.exe`.  
-> E o mais estranho: a mensagem diz que você é o único que pode decifrar.
+— Alguém invadiu o sistema da minha empresa e deixou um único arquivo criptografado. O nome dele é: `meia-noite.exe`. E o mais estranho: a mensagem diz que você é o único que pode decifrar.
 
 Léo ergueu uma sobrancelha.  
 Isso era intrigante.  
 E ele **adorava enigmas com nome de arquivo**.
 
-## Capítulo 2 – O Arquivo que Sussurra
+## Capítulo 2 – O Arquivo que Sussurra ##
 
 Léo Cipher colocou o CAPTCHA de lado e finalmente deu atenção total à mulher misteriosa.
 Ela estendeu um pendrive preto fosco, sem marca. Nada bom sinal.
@@ -62,7 +60,7 @@ Olhou para o relógio:
 23h47.
 Treze minutos para a meia-noite. E seja lá o que fosse acontecer... ele sabia que estava no centro disso.
 
-**Capítulo 3 – O Relógio de Ouro** 
+## Capítulo 3 – O Relógio de Ouro ## 
 
 O relógio de Léo, uma relíquia de prata que ele usava como um amuleto, parecia se distorcer no ritmo da ansiedade que tomava conta de sua mente. O som da chuva no vidro da janela agora se misturava ao ruído incessante da ventoinha do seu laptop. Os minutos passavam rápido, quase como se o tempo tivesse adquirido uma textura pesada, como se estivesse se comprimindo, aguardando o momento exato.
 
@@ -102,4 +100,35 @@ Léo sentiu um arrepio percorrer sua espinha. Ele não sabia o que isso signific
 
 A última batida do relógio soou. E, então, o arquivo se abriu.  
 
+## Capítulo 4 – O Espelho da Alma ##
 
+Em vez de códigos complexos ou arquivos corrompidos, a tela do laptop de Léo exibiu uma única imagem: uma fotografia antiga e desbotada. Nela, um garoto de uns dez anos, magro e com óculos grandes demais para o rosto, sorria timidamente ao lado de um homem mais velho, com um semblante cansado, mas um olhar carinhoso. Atrás deles, uma placa enferrujada indicava: "Bem-vindos a CipherTech".
+
+Léo sentiu o ar lhe faltar. Aquela foto... era dele e de seu pai. CipherTech era a pequena oficina de eletrônicos que seu pai lutara para manter aberta antes de falecer repentinamente. Um nó se formou em sua garganta. Ele raramente pensava naquele tempo, enterrando as lembranças sob camadas de cinismo e códigos.
+
+Naquele instante, a mulher deixou os óculos escuros caírem. Seus olhos, marejados, fixaram-se em Léo. Ele a reconheceu. Era Ana, uma antiga amiga de infância, filha do sócio de seu pai na CipherTech. Eles não se viam desde a adolescência, quando ela se mudou com a mãe após o fechamento da oficina.
+
+— Ana? — Léo murmurou, a voz embargada.
+
+— Léo... — ela respondeu, a voz um sussurro carregado de emoção. — Eu sabia que você era o único.
+
+— Mas... o que tudo isso tem a ver com a CipherTech? Com meu pai? — Léo perguntou, confuso e começando a sentir um calafrio percorrer seu corpo.
+Ana respirou fundo, como se reunisse forças para revelar um segredo há muito guardado.
+
+— O projeto fantasma... ele nasceu dos seus projetos, Léo. As ideias que você e seu pai tinham naquela oficina. O governo se apropriou da tecnologia, prometendo investir e expandir, mas... eles o deixaram de lado. Seu pai... ele descobriu algo. Algo perigoso sobre o que estavam fazendo com a tecnologia dele.
+
+A imagem na tela mudou. Agora exibia um diagrama complexo, cheio de nós e interconexões, com o logotipo estilizado da CipherTech no centro. Anotações rabiscadas à mão, na caligrafia inconfundível de seu pai, cercavam o esquema.
+
+— Ele estava tentando proteger a invenção de vocês — continuou Ana, a voz agora firme. — Ele criou uma chave, algo que só alguém com a sua ligação com a CipherTech poderia acessar. O meia-noite.exe não é um vírus. É um fragmento dessa chave. E a mensagem... "A chave está nos seus próprios segredos"... significa que as memórias, as emoções ligadas àquele tempo, são o quebra-cabeça.
+
+Léo sentiu um turbilhão de emoções o invadir. A saudade do pai, a raiva pela injustiça, a surpresa pela revelação. As lembranças da oficina, o cheiro de solda, as conversas animadas com o pai sobre o futuro da tecnologia... tudo voltava à tona com uma intensidade avassaladora.
+
+A imagem na tela se dividiu em várias outras, mostrando fotos de projetos inacabados, protótipos empoeirados e anotações técnicas. Cada imagem parecia despertar uma lembrança adormecida em Léo.
+
+— Ele deixou pistas... em tudo isso — disse Ana, apontando para a tela. — Pequenos detalhes, datas, nomes de projetos... tudo conectado às suas lembranças. Precisamos juntar as peças, Léo. Antes que eles percebam que encontramos a chave.
+
+Léo olhou para as imagens, para o rosto sorridente do pai na primeira foto. Ele finalmente entendeu. A invasão, o arquivo criptografado, a mensagem enigmática... tudo era um plano engenhoso de seu pai, executado por Ana, para proteger sua criação e expor a verdade.
+
+Um novo comando surgiu na tela: "Sequência de montagem da chave iniciada. Insira a primeira memória codificada."
+
+Léo fechou os olhos por um instante, deixando as lembranças o guiarem. O barulho da chuva lá fora parecia ter diminuído, substituído por um silêncio carregado de significado. Ele sabia o que precisava fazer. Aquele não era apenas um código para ser decifrado. Era um legado a ser resgatado. E ele, Léo Cipher, o detetive hacker excêntrico, finalmente havia encontrado um caso que tocava a sua própria alma. A meia-noite não havia trazido escuridão, mas sim a luz de um passado que precisava ser lembrado e de um futuro que precisava ser reescrito.
