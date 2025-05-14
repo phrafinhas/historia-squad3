@@ -166,7 +166,7 @@ Léo fechou os olhos por um instante, deixando as lembranças o guiarem. O barul
 
 
 
-##Capítulo Final - O Labirinto da Memória ##
+## Capítulo Final - O Labirinto da Memória ##
 
 
 A tela do laptop de Léo se transformou em uma espécie de portal, mostrando uma animação fluida de linhas e formas geométricas que lembravam circuitos eletrônicos, mas com uma qualidade orgânica, quase como se fossem veias pulsantes. No centro do emaranhado, um símbolo: o logotipo estilizado da CipherTech, agora brilhando intensamente.
