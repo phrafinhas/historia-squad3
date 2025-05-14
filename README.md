@@ -52,7 +52,7 @@ Ele odiava charadas... e amava em igual medida.
 — Você tem mais alguma coisa que não contou? — perguntou à cliente.
 
 Ela hesitou.
-— Só... só que o nome da empresa que foi invadida não existe oficialmente. É um projeto fantasma de segurança de dados do governo.
+— Só...só que o nome da empresa que foi invadida não existe oficialmente. É um projeto fantasma de segurança de dados do governo.
 
 Léo sorriu torto.
 
